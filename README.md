@@ -15,7 +15,7 @@ Ensure you have the following installed before running the script:
 - Python 3.x
 - Required Python packages:
   ```bash
-  pip install pandas requests beautifulsoup4 price-parser python-dotenv
+  pip install pandas requests beautifulsoup4 price-parser python-dotenv selenium
   ```
 
 ## Setup
@@ -35,7 +35,7 @@ Ensure you have the following installed before running the script:
 ## Usage
 Run the script using:
 ```bash
-python script.py
+python price_tracker.py
 ```
 
 ## How It Works
